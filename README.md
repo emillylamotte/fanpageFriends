@@ -1,7 +1,7 @@
 
 <h1 align="center">Fanpage - Friends</h1> 
 <p align="justify">
-    -  O projeto em desenvolvimento trata-se de uma fanpage (inicialmente estática) da série Friends. Os principais objetivos durante o desenvolvimento eram explorar as áreas de estudo:<br>
+    -  O projeto em desenvolvimento trata-se de uma fanpage (inicialmente estática e não responsiva) da série Friends. Os principais objetivos durante o desenvolvimento eram explorar as áreas de estudo:<br>
   
  - Estilização com CSS (sombras e animações simples);
  - Estrutura de website com HTML;
