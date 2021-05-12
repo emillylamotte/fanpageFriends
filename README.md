@@ -1,5 +1,5 @@
 
-<h1 align="center">Fan Page - Friends</h1> 
+<h1 align="center">Fanpage - Friends</h1> 
 <p align="justify">
     -  O projeto em desenvolvimento trata-se de uma fan page (inicialmente estática) da série Friends. Os principais objetivos durante o desenvolvimento eram explorar as áreas de estudo:<br>
   
